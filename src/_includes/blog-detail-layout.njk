@@ -1,0 +1,9 @@
+---
+layout: blog-layout.njk
+---
+<div class="blog blog-detail me-lg-5 fs-5">
+    <h1 class="title fw-medium mb-4">{{ title }}</h1>
+    <small><time datetime="{{ date | dateShort }}">{{ date | dateReadable }}</time></small>
+    <hr/>
+    {{ content | safe }}
+</div>

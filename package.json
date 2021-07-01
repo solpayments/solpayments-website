@@ -1,0 +1,24 @@
+{
+  "name": "spp-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "clean": "npx del dist",
+    "serve": "ELEVENTY_ENV=dev npx eleventy --serve",
+    "start": "npm run serve",
+    "build": "ELEVENTY_ENV=dev npx eleventy",
+    "build:prod": "ELEVENTY_ENV=prod npx eleventy",
+    "debug": "DEBUG=* npx eleventy",
+    "prestart": "npm run clean",
+    "prebuild": "npm run clean",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1",
+    "del-cli": "^4.0.0"
+  }
+}

@@ -1,0 +1,177 @@
+.bg-primary,
+.bg-soft-primary,
+.btn-primary,
+.btn-soft-primary:hover, 
+.btn-soft-primary:focus, 
+.btn-soft-primary:active, 
+.btn-soft-primary.active, 
+.btn-soft-primary.focus,
+.btn-outline-primary:hover, 
+.btn-outline-primary:focus, 
+.btn-outline-primary:active, 
+.btn-outline-primary.active, 
+.btn-outline-primary.focus, 
+.btn-outline-primary:not(:disabled):not(.disabled):active,
+.pagination .page-item.active .page-link,
+.form-check-input.form-check-input:checked,
+.nav-pills .nav-link.active,
+#preloader #status .spinner .double-bounce1, 
+#preloader #status .spinner .double-bounce2,
+.social-icon li a:hover,
+#topnav .navbar-toggle.open span:hover,
+.feature.feature-primary .btn-color,
+.feature.feature-primary .btn-soft:hover, 
+.feature.feature-primary .btn-soft:focus, 
+.feature.feature-primary .btn-soft:active, 
+.feature.feature-primary .btn-soft.active, 
+.feature.feature-primary .btn-soft.focus,
+.tns-nav button.tns-nav-active,
+.tiny-timeline:before,
+.tiny-timeline .item-box:before, 
+.tiny-timeline .item-box:after,
+.tagcloud > a:hover {
+    background-color: #7952B3 !important;
+}
+
+.btn-primary,
+.btn-soft-primary:hover, 
+.btn-soft-primary:focus, 
+.btn-soft-primary:active, 
+.btn-soft-primary.active, 
+.btn-soft-primary.focus,
+.btn-outline-primary,
+.btn-outline-primary:hover, 
+.btn-outline-primary:focus, 
+.btn-outline-primary:active, 
+.btn-outline-primary.active, 
+.btn-outline-primary.focus, 
+.btn-outline-primary:not(:disabled):not(.disabled):active,
+.alert-primary,
+.alert-outline-primary,
+.pagination .page-item.active .page-link,
+.form-control:focus,
+.form-check-input:focus,
+.form-check-input.form-check-input:checked,
+.social-icon li a:hover,
+#topnav .has-submenu.active.active .menu-arrow,
+#topnav .has-submenu .submenu .has-submenu:hover .submenu-arrow,
+#topnav.scroll .navigation-menu > li:hover > .menu-arrow, 
+#topnav.scroll .navigation-menu > li.active > .menu-arrow,
+#topnav.nav-sticky .navigation-menu.nav-light > li:hover > .menu-arrow, 
+#topnav.nav-sticky .navigation-menu.nav-light > li.active > .menu-arrow,
+#topnav .navigation-menu > li:hover > .menu-arrow,
+.feature.feature-primary .btn-color,
+.feature.feature-primary .btn-soft:hover, 
+.feature.feature-primary .btn-soft:focus, 
+.feature.feature-primary .btn-soft:active, 
+.feature.feature-primary .btn-soft.active, 
+.feature.feature-primary .btn-soft.focus,
+.tns-nav button.tns-nav-active {
+    border-color: #7952B3 !important;
+}
+
+.text-primary,
+.btn-soft-primary,
+.btn-outline-primary,
+.alert-outline-primary,
+.breadcrumb .breadcrumb-item a:hover,
+.breadcrumb .breadcrumb-item.active,
+.accordion .accordion-item .accordion-button:after,
+.accordion .accordion-item .accordion-button:not(.collapsed),
+.apps-links:hover .icon,
+#topnav .has-submenu.active .submenu li.active > a,
+#topnav .navigation-menu > li:hover > a,
+#topnav .navigation-menu > li.active > a,
+#topnav .navigation-menu > li > a:hover, 
+#topnav .navigation-menu > li > a:active,
+#topnav.scroll .navigation-menu > li:hover > a, 
+#topnav.scroll .navigation-menu > li.active > a,
+#topnav.nav-sticky .navigation-menu.nav-light > li.active > a,
+#topnav.nav-sticky .navigation-menu.nav-light > li:hover > a, 
+#topnav .navigation-menu > li .submenu li a:hover,
+#topnav .navigation-menu > li:hover > a,
+#topnav .navigation-menu > li.active > a,
+#topnav .navigation-menu > li > a:hover,
+#topnav .navigation-menu > li .submenu li a:hover,
+#topnav .navigation-menu > li.has-submenu.open > a,
+#topnav .has-submenu.active a,
+#navmenu-nav li.active a,
+#navmenu-nav li.account-menu.active .navbar-link, 
+#navmenu-nav li.account-menu:hover .navbar-link,
+.feature.feature-primary .icons i,
+.feature.feature-primary .title:hover,
+.feature.feature-primary .link,
+.feature.feature-primary .btn-soft,
+.key-feature.feature-primary .icon,
+.blog.blog-primary .title:hover,
+.blog.blog-primary .link {
+    color: #7952B3 !important;
+}
+
+a.text-primary:hover, a.text-primary:focus {
+    color: #6d48a4 !important;
+}
+
+.bg-soft-primary,
+.btn-soft-primary,
+.feature.feature-primary .btn-soft{
+    background-color: rgba(121, 82, 179, 0.1) !important;
+    border: 1px solid rgba(121, 82, 179, 0.1) !important;
+}
+
+.btn-primary,
+.btn-outline-primary:hover, 
+.btn-outline-primary:focus, 
+.btn-outline-primary:active, 
+.btn-outline-primary.active, 
+.btn-outline-primary.focus, 
+.btn-outline-primary:not(:disabled):not(.disabled):active,
+.feature.feature-primary .btn-color,
+.feature.feature-primary .btn-soft {
+    box-shadow: 0 3px 5px 0 rgba(121, 82, 179, 0.3) !important;
+}
+
+.btn-primary:hover, 
+.btn-primary:focus, 
+.btn-primary:active, 
+.btn-primary.active, 
+.btn-primary.focus,
+.feature.feature-primary .btn-color:hover, 
+.feature.feature-primary .btn-color:focus, 
+.feature.feature-primary .btn-color:active, 
+.feature.feature-primary .btn-color.active, 
+.feature.feature-primary .btn-color.focus {
+    background-color: #614092 !important;
+    border-color: #614092 !important;
+}
+
+.alert-primary,
+.pagination .page-item .page-link:hover {
+    background-color: rgba(121, 82, 179, 0.9) !important;
+}
+
+.alert-primary .alert-link {
+    color: #32214b !important;
+}
+
+.pagination .page-item .page-link:hover {
+    border-color: rgba(121, 82, 179, 0.9) !important;
+}
+
+::selection {
+    background: rgba(121, 82, 179, 0.9) !important;
+}
+
+
+.bg-gradient-primary {
+    background: linear-gradient(to left, #00bf7a 0%, #6d48a4 100%) !important;
+}
+
+.feature.feature-primary .icons i,
+.key-feature.feature-primary .icon {
+    background: linear-gradient(45deg, transparent, rgba(121, 82, 179, 0.2)) !important;
+}
+
+.tns-nav button {
+    background: rgba(121, 82, 179, 0.5) !important;    
+}
